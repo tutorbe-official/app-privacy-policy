@@ -74,6 +74,6 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 **Contact Us**
 
-If you have any questions, concerns, or requests related to this Privacy Policy, please contact us at [contact@email.com](mailto:contact@email.com).
+If you have any questions, concerns, or requests related to this Privacy Policy, please contact us at [info@tutorbe.com](mailto:info@tutorbe.com).
 
 By using TutorBe, you acknowledge that you have read and understood this Privacy Policy and agree to the collection and use of your personal information as described herein.
